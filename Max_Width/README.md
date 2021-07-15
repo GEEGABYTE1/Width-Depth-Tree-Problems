@@ -31,5 +31,6 @@ Time Complexity of function (`.()width_counter`): `O(n^2)`
 
 # More Information 
 
-`test.py` are test inputs 
-`tree.py` is the underlying tree data structure used.
+- `test.py` are test inputs 
+- `tree.py` is the underlying tree data structure used.
+- Made in Python 🐍
